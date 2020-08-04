@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.21)  22 MAY 2020 02:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.21)  4 AUG 2020 01:11
 entering extended mode
-**c:/Users/MilhHernandez/Documents/UPCh/Convalidación/PICromatografiaAPPMovile/01_Formato.tex
-(c:/Users/MilhHernandez/Documents/UPCh/Convalidación/PICromatografiaAPPMovile/01_Formato.tex
+**c:/Users/MilhHernandez/Documents/Proyecto_Individual/Latex/PICiereDelProyecto/01_Formato.tex
+(c:/Users/MilhHernandez/Documents/Proyecto_Individual/Latex/PICiereDelProyecto/01_Formato.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-05-15> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -266,37 +266,68 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box90
 \colbreak@box=\box91
 \mc@col@check@num=\count268
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box92
+\extrarowheight=\dimen162
+\NC@list=\toks24
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box93
+)
+\everycr=\toks25
+\minrowclearance=\skip54
+)
+\rownum=\count269
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count269
-\l__pdf_internal_box=\box92
-) (c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box94
+) (c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = `01_Formato.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
  (C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -332,44 +363,37 @@ LaTeX Info: Redefining \% on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box93
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-Package hyperref Info: Link coloring ON on input line 23.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+\AtBeginShipoutBox=\box95
+Package hyperref Info: Link coloring ON on input line 24.
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count270
+\c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
- (c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out) (c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out) (c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out)
 \@outlinefile=\write3
 \openout3 = `01_Formato.out'.
 
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen161
-\scratchbox=\box94
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen162
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count272
+\scratchdimen=\dimen163
+\scratchbox=\box96
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen164
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks27
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -377,55 +401,56 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )) [1
 
-{C:/Users/MilhHernandez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.toc
+{C:/Users/MilhHernandez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
- [2])
+(Font)              <6> on input line 6.
+)
 \tf@toc=\write4
 \openout4 = `01_Formato.toc'.
 
- [3] (03_Introduccion.tex) [4] (04_Requerimientos.tex) [5] (05_Conf_Inst.tex) [6] (06_Descripcion.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--9
-
+ [2] (03_Introduccion.tex (C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 1527) in paragraph at lines 41--42
+[]|\OT1/cmr/m/n/10.95 Ingeniera en De-sa-rro-llo de
  []
 
-<Imagen/Android.png, id=276, 367.3725pt x 385.44pt>
-File: Imagen/Android.png Graphic file (type png)
-<use Imagen/Android.png>
-Package pdftex.def Info: Imagen/Android.png  used on input line 18.
-(pdftex.def)             Requested size: 178.501pt x 187.28517pt.
-[7 <./Imagen/Android.png>] [8] [9] [10])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
- (c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/cmr/bx/n/10.95 Aceptacion(Si
+ []
+
+) [4] (04_Requerimientos.tex) (05_Conf_Inst.tex) (06_Descripcion.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+ (c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `01_Formato.out' has not changed.
-(rerunfilecheck)             Checksum: A6D3DBEF73C23633B42D00ED5F0DC0CF;3981.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
+(rerunfilecheck)             Checksum: 14BBEBBA203CB54303FC73368E01DCA1;521.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 7822 strings out of 480799
- 120481 string characters out of 2905504
- 410757 words of memory out of 3000000
- 23623 multiletter control sequences out of 15000+200000
+ 8470 strings out of 480799
+ 127265 string characters out of 2905504
+ 419632 words of memory out of 3000000
+ 24309 multiletter control sequences out of 15000+200000
  537587 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,39p,471b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,10n,39p,415b,574s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\MilhHernandez\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on c:/Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.pdf (11 pages, 186786 bytes).
+Output written on c:/Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.pdf (4 pages, 101791 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 390 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

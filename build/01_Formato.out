@@ -1,48 +1,9 @@
-\BOOKMARK [1][-]{section.1}{Introducci\363n.}{}% 1
-\BOOKMARK [1][-]{section.2}{Requerimientos.}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Software}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Hardware}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Configuraci\363n e Instalaci\363n.}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{Instalaci\363n del IDE de Android studio.}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.2}{Configuraci\363n del IDE de Android studio con el uso del proyecto.}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.3}{Configuraci\363n del dispositivo m\363vil con sistema operativo Android.}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{Descripci\363n del c\363digo del proyecto.}{}% 9
-\BOOKMARK [2][-]{subsection.4.1}{Composici\363n del proyecto.}{section.4}% 10
-\BOOKMARK [2][-]{subsection.4.2}{Carpeta Actividades.}{section.4}% 11
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Clase A\137IniciarSesion.}{subsection.4.2}% 12
-\BOOKMARK [4][-]{paragraph.4.2.1.1}{EnableRuntimePermissionToAccessCamera:}{subsubsection.4.2.1}% 13
-\BOOKMARK [4][-]{paragraph.4.2.1.2}{Validar\137Email:}{subsubsection.4.2.1}% 14
-\BOOKMARK [4][-]{paragraph.4.2.1.3}{Ir\137A\137La\137Pantalla\137de\137Perfil:}{subsubsection.4.2.1}% 15
-\BOOKMARK [4][-]{paragraph.4.2.1.4}{Iniciar\137Sesion:}{subsubsection.4.2.1}% 16
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Clase B\137Perfil.}{subsection.4.2}% 17
-\BOOKMARK [4][-]{paragraph.4.2.2.1}{Ir A\137La\137Pantalla\137De\137Crear\137Muestra:}{subsubsection.4.2.2}% 18
-\BOOKMARK [4][-]{paragraph.4.2.2.2}{Ir A\137La\137Pantalla\137De\137Guardar\137Localizacion:}{subsubsection.4.2.2}% 19
-\BOOKMARK [3][-]{subsubsection.4.2.3}{Clase C\137Crear\137Muestra.}{subsection.4.2}% 20
-\BOOKMARK [4][-]{paragraph.4.2.3.1}{Ir\137A\137La\137Pantalla\137De\137Resultados:}{subsubsection.4.2.3}% 21
-\BOOKMARK [4][-]{paragraph.4.2.3.2}{takePictureIntent:}{subsubsection.4.2.3}% 22
-\BOOKMARK [4][-]{paragraph.4.2.3.3}{postFile:}{subsubsection.4.2.3}% 23
-\BOOKMARK [4][-]{paragraph.4.2.3.4}{Lista\137De\137Lugares:}{subsubsection.4.2.3}% 24
-\BOOKMARK [4][-]{paragraph.4.2.3.5}{Datos\137Region:}{subsubsection.4.2.3}% 25
-\BOOKMARK [4][-]{paragraph.4.2.3.6}{Informacion\137Muestra:}{subsubsection.4.2.3}% 26
-\BOOKMARK [4][-]{paragraph.4.2.3.7}{Datos\137de\137la\137Muestra:}{subsubsection.4.2.3}% 27
-\BOOKMARK [4][-]{paragraph.4.2.3.8}{FormatoDecimal:}{subsubsection.4.2.3}% 28
-\BOOKMARK [4][-]{paragraph.4.2.3.9}{displayUserData:}{subsubsection.4.2.3}% 29
-\BOOKMARK [3][-]{subsubsection.4.2.4}{Clase D\137Analisis\137Croma.}{subsection.4.2}% 30
-\BOOKMARK [4][-]{paragraph.4.2.4.1}{Cambio\137de\137Colores:}{subsubsection.4.2.4}% 31
-\BOOKMARK [4][-]{paragraph.4.2.4.2}{Actu\137CRM:}{subsubsection.4.2.4}% 32
-\BOOKMARK [4][-]{paragraph.4.2.4.3}{subir\137Imagen:}{subsubsection.4.2.4}% 33
-\BOOKMARK [3][-]{subsubsection.4.2.5}{Clase E\137Guardar\137Coordenadas.}{subsection.4.2}% 34
-\BOOKMARK [4][-]{paragraph.4.2.5.1}{Permiso\137De\137Localizacion:}{subsubsection.4.2.5}% 35
-\BOOKMARK [4][-]{paragraph.4.2.5.2}{Obtener\137Coordenadas:}{subsubsection.4.2.5}% 36
-\BOOKMARK [4][-]{paragraph.4.2.5.3}{nuevo\137lista:}{subsubsection.4.2.5}% 37
-\BOOKMARK [4][-]{paragraph.4.2.5.4}{lista\137de\137medidas:}{subsubsection.4.2.5}% 38
-\BOOKMARK [4][-]{paragraph.4.2.5.5}{Guardar\137Informacion:}{subsubsection.4.2.5}% 39
-\BOOKMARK [2][-]{subsection.4.3}{Carpeta de API.}{section.4}% 40
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Clase API.}{subsection.4.3}% 41
-\BOOKMARK [3][-]{subsubsection.4.3.2}{Clase ClienteRetrifit.}{subsection.4.3}% 42
-\BOOKMARK [4][-]{paragraph.4.3.2.1}{ClienteRetrofit:}{subsubsection.4.3.2}% 43
-\BOOKMARK [4][-]{paragraph.4.3.2.2}{ClienteRetrofit con par\341metro:}{subsubsection.4.3.2}% 44
-\BOOKMARK [4][-]{paragraph.4.3.2.3}{getInstance:}{subsubsection.4.3.2}% 45
-\BOOKMARK [4][-]{paragraph.4.3.2.4}{getInstance2:}{subsubsection.4.3.2}% 46
-\BOOKMARK [4][-]{paragraph.4.3.2.5}{getApi:}{subsubsection.4.3.2}% 47
-\BOOKMARK [2][-]{subsection.4.4}{Carpeta de Modelo.}{section.4}% 48
+\BOOKMARK [1][-]{section.1}{Nombre del proyecto.}{}% 1
+\BOOKMARK [1][-]{section.2}{Justificaci\363n o prop\363sito.}{}% 2
+\BOOKMARK [1][-]{section.3}{Objetivo.}{}% 3
+\BOOKMARK [1][-]{section.4}{Descripci\363n.}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Datos.}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Patrocinador\(es\).}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Raz\363n de cierre.}{}% 7
+\BOOKMARK [1][-]{section.6}{Aceptaci\363n de los productos o entregables.}{}% 8
+\BOOKMARK [1][-]{section.7}{Aprobaciones.}{}% 9

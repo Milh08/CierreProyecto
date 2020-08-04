@@ -1,49 +1,10 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n.}{4}{section.1}%
-\contentsline {section}{\numberline {2}Requerimientos.}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Software}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Hardware}{5}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Configuraci\IeC {\'o}n e Instalaci\IeC {\'o}n.}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Instalaci\IeC {\'o}n del IDE de Android studio.}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Configuraci\IeC {\'o}n del IDE de Android studio con el uso del proyecto.}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Configuraci\IeC {\'o}n del dispositivo m\IeC {\'o}vil con sistema operativo Android.}{6}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Descripci\IeC {\'o}n del c\IeC {\'o}digo del proyecto.}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Composici\IeC {\'o}n del proyecto.}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Carpeta Actividades.}{7}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Clase A\_IniciarSesion.}{7}{subsubsection.4.2.1}%
-\contentsline {paragraph}{\numberline {4.2.1.1}EnableRuntimePermissionToAccessCamera:}{7}{paragraph.4.2.1.1}%
-\contentsline {paragraph}{\numberline {4.2.1.2}Validar\_Email:}{7}{paragraph.4.2.1.2}%
-\contentsline {paragraph}{\numberline {4.2.1.3}Ir\_A\_La\_Pantalla\_de\_Perfil:}{8}{paragraph.4.2.1.3}%
-\contentsline {paragraph}{\numberline {4.2.1.4}Iniciar\_Sesion:}{8}{paragraph.4.2.1.4}%
-\contentsline {subsubsection}{\numberline {4.2.2}Clase B\_Perfil.}{8}{subsubsection.4.2.2}%
-\contentsline {paragraph}{\numberline {4.2.2.1}Ir A\_La\_Pantalla\_De\_Crear\_Muestra:}{8}{paragraph.4.2.2.1}%
-\contentsline {paragraph}{\numberline {4.2.2.2}Ir A\_La\_Pantalla\_De\_Guardar\_Localizacion:}{8}{paragraph.4.2.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Clase C\_Crear\_Muestra.}{8}{subsubsection.4.2.3}%
-\contentsline {paragraph}{\numberline {4.2.3.1}Ir\_A\_La\_Pantalla\_De\_Resultados:}{8}{paragraph.4.2.3.1}%
-\contentsline {paragraph}{\numberline {4.2.3.2}takePictureIntent:}{8}{paragraph.4.2.3.2}%
-\contentsline {paragraph}{\numberline {4.2.3.3}postFile:}{8}{paragraph.4.2.3.3}%
-\contentsline {paragraph}{\numberline {4.2.3.4}Lista\_De\_Lugares:}{9}{paragraph.4.2.3.4}%
-\contentsline {paragraph}{\numberline {4.2.3.5}Datos\_Region:}{9}{paragraph.4.2.3.5}%
-\contentsline {paragraph}{\numberline {4.2.3.6}Informacion\_Muestra:}{9}{paragraph.4.2.3.6}%
-\contentsline {paragraph}{\numberline {4.2.3.7}Datos\_de\_la\_Muestra:}{9}{paragraph.4.2.3.7}%
-\contentsline {paragraph}{\numberline {4.2.3.8}FormatoDecimal:}{9}{paragraph.4.2.3.8}%
-\contentsline {paragraph}{\numberline {4.2.3.9}displayUserData:}{9}{paragraph.4.2.3.9}%
-\contentsline {subsubsection}{\numberline {4.2.4}Clase D\_Analisis\_Croma.}{9}{subsubsection.4.2.4}%
-\contentsline {paragraph}{\numberline {4.2.4.1}Cambio\_de\_Colores:}{9}{paragraph.4.2.4.1}%
-\contentsline {paragraph}{\numberline {4.2.4.2}Actu\_CRM:}{9}{paragraph.4.2.4.2}%
-\contentsline {paragraph}{\numberline {4.2.4.3}subir\_Imagen:}{10}{paragraph.4.2.4.3}%
-\contentsline {subsubsection}{\numberline {4.2.5}Clase E\_Guardar\_Coordenadas.}{10}{subsubsection.4.2.5}%
-\contentsline {paragraph}{\numberline {4.2.5.1}Permiso\_De\_Localizacion:}{10}{paragraph.4.2.5.1}%
-\contentsline {paragraph}{\numberline {4.2.5.2}Obtener\_Coordenadas:}{10}{paragraph.4.2.5.2}%
-\contentsline {paragraph}{\numberline {4.2.5.3}nuevo\_lista:}{10}{paragraph.4.2.5.3}%
-\contentsline {paragraph}{\numberline {4.2.5.4}lista\_de\_medidas:}{10}{paragraph.4.2.5.4}%
-\contentsline {paragraph}{\numberline {4.2.5.5}Guardar\_Informacion:}{10}{paragraph.4.2.5.5}%
-\contentsline {subsection}{\numberline {4.3}Carpeta de API.}{10}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Clase API.}{10}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Clase ClienteRetrifit.}{10}{subsubsection.4.3.2}%
-\contentsline {paragraph}{\numberline {4.3.2.1}ClienteRetrofit:}{11}{paragraph.4.3.2.1}%
-\contentsline {paragraph}{\numberline {4.3.2.2}ClienteRetrofit con par\IeC {\'a}metro:}{11}{paragraph.4.3.2.2}%
-\contentsline {paragraph}{\numberline {4.3.2.3}getInstance:}{11}{paragraph.4.3.2.3}%
-\contentsline {paragraph}{\numberline {4.3.2.4}getInstance2:}{11}{paragraph.4.3.2.4}%
-\contentsline {paragraph}{\numberline {4.3.2.5}getApi:}{11}{paragraph.4.3.2.5}%
-\contentsline {subsection}{\numberline {4.4}Carpeta de Modelo.}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {1}Nombre del proyecto.}{3}{section.1}%
+\contentsline {section}{\numberline {2}Justificaci\IeC {\'o}n o prop\IeC {\'o}sito.}{3}{section.2}%
+\contentsline {section}{\numberline {3}Objetivo.}{3}{section.3}%
+\contentsline {section}{\numberline {4}Descripci\IeC {\'o}n.}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Datos.}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Patrocinador(es).}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Raz\IeC {\'o}n de cierre.}{4}{section.5}%
+\contentsline {section}{\numberline {6}Aceptaci\IeC {\'o}n de los productos o entregables.}{4}{section.6}%
+\contentsline {section}{\numberline {7}Aprobaciones.}{4}{section.7}%

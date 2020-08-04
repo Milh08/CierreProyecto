@@ -1,7 +1,7 @@
-PWD c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile
+PWD c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto
 INPUT C:\Users\MilhHernandez\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\01_Formato.tex
-OUTPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.log
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\01_Formato.tex
+OUTPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.log
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
@@ -91,31 +91,35 @@ INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfi
 INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
-OUTPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
-INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
-INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
+OUTPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-OUTPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.pdf
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-OUTPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+OUTPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.pdf
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+OUTPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -130,8 +134,8 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsl12.tfm
 INPUT C:\Users\MilhHernandez\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.toc
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.toc
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.toc
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.toc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
@@ -141,25 +145,22 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-OUTPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.toc
+OUTPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.toc
 INPUT 03_Introduccion.tex
 INPUT 03_Introduccion.tex
-INPUT 04_Requerimientos.tex
-INPUT 04_Requerimientos.tex
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-32.def
+INPUT C:\Users\MilhHernandez\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-32.def
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT 04_Requerimientos.tex
+INPUT 04_Requerimientos.tex
 INPUT 05_Conf_Inst.tex
 INPUT 05_Conf_Inst.tex
 INPUT 06_Descripcion.tex
 INPUT 06_Descripcion.tex
-INPUT Imagen\Android.png
-INPUT .\Imagen\Android.png
-INPUT .\Imagen\Android.png
-INPUT .\Imagen\Android.png
-INPUT .\Imagen\Android.png
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.aux
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
-INPUT c:\Users\MilhHernandez\Documents\UPCh\Convalidación\PICromatografiaAPPMovile\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.aux
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
+INPUT c:\Users\MilhHernandez\Documents\Proyecto_Individual\Latex\PICiereDelProyecto\build\01_Formato.out
 INPUT C:\Users\MilhHernandez\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\MilhHernandez\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
